@@ -1,4 +1,4 @@
-## Prazer, SOU VINICIOS 👋
+## PRAZER, SOU VINICIOS 👋
 ## 🎓 Sobre Mim
 
 
