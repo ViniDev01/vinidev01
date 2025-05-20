@@ -19,6 +19,7 @@ Desenvolvedor Front-end especializado em criar experiências digitais rápidas, 
 
 ## 📫 Onde me encontrar
 
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=https%3A%2F%2Fi.postimg.cc%2FykByJpzj%2Ffavicon-32x32.png&logoColor=white)]([https://seusite.com](https://vinidev01.github.io/PortfolioViniDev01))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-usuario)
 [![Gmail](https://img.shields.io/badge/Gmail-666665?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
