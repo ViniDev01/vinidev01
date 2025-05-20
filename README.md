@@ -2,7 +2,7 @@
 ## 🎓 Sobre Mim
 
 
-Desenvolvedor Front-end especializado em criar experiências digitais rápidas, escaláveis e com foco em performance, acessibilidade e design responsivo.
+Desenvolvedor Front-end especializado em criar experiências digitais rápidas, escaláveis e com foco em performance, acessibilidade e design responsivo. Atualmente, trabalho com React.js e Javascript.
 
 ### 🛠️ Tecnologias que estou estudando:
 [![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
