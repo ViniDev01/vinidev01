@@ -1,4 +1,4 @@
-## OI! EU SOU O VINICIOS 👋
+## Prazer, SOU VINICIOS 👋
 ## 🎓 Sobre Mim
 
 
