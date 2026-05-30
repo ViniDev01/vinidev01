@@ -2,7 +2,13 @@
 ## 🎓 Sobre Mim
 
 
-Desenvolvedor Front-end especializado em criar experiências digitais rápidas, escaláveis e com foco em performance, acessibilidade e design responsivo. Atualmente, trabalho com React.js e Javascript.
+Desenvolvedor Full Stack com foco na criação de aplicações web modernas, performáticas e escaláveis.
+
+Iniciei minha trajetória na programação em 2022 e, desde então, venho desenvolvendo projetos que envolvem desde a construção de interfaces intuitivas até a implementação de APIs, autenticação e integração com bancos de dados.
+
+Trabalho principalmente com JavaScript, TypeScript, React, Next.js, Node.js, Firebase, PostgreSQL e Tailwind CSS, utilizando essas tecnologias para desenvolver soluções completas e entregar uma boa experiência ao usuário.
+
+Busco constantemente aprimorar minhas habilidades, acompanhar as evoluções do ecossistema web e aplicar boas práticas de desenvolvimento para criar aplicações cada vez mais eficientes, seguras e bem estruturadas.
 
 ### 🛠️ Tecnologias que estou estudando:
 [![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
